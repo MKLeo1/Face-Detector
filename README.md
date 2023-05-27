@@ -11,4 +11,4 @@ M.K.
 <h2>Build & run</h2>
 Before using, install the OpenCV library and follow the installation process -> https://opencv.org/ 
 
-compilation process flags -> g++ main.cpp -o output `pkg-config --cflags --libs opencv4`
+compilation process flags -> g++ main.cpp -o FaceDetector `pkg-config --cflags --libs opencv4`
